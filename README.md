@@ -23,12 +23,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielmcafe&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmcafe&layout=compact&theme=tokyonight)
-
----
-
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-moreira-cafe-de-moura-a87941316/)
