@@ -5,7 +5,7 @@
 
 ## 👋 Hi there! I'm Gabriel Moreira
 
-💻 **Student and developer** focused on **C** and **Python**  
+💻 **Student and developer** focused on **C** and **Python** and **Java** and **JavaScript**
 🌱 Currently learning **Markov Chains** and **Software Process**  
 🚀 Passionate about solving programming challenges and building practical projects  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabriel-moreira-cafe-de-moura-a87941316/)  
